@@ -1,49 +1,67 @@
-<h2 align="left">Hi 👋! </h2>
+# Hi there 👋, I'm Ziq
 
-###
+![Profile Banner](https://images.unsplash.com/photo-1603780370286-3f6a5a041bfc?auto=format&fit=crop&w=1400&q=80)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ziq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+I'm a passionate **Full Stack Developer** who loves building beautiful, functional, and interactive apps. I specialize in **React Native, Node.js, React, and modern web technologies**, and I'm currently expanding my horizons into **C programming**.
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🛠️ Skills & Technologies
 
-###
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-native-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/c-original.svg" height="30" alt="csharp logo"  />
-</div>
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-###
+### Learning
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-<div align="left">
+---
 
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+## 📈 GitHub Stats
 
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+![Ziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziq30&show_icons=true&theme=radical)
 
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ziq30=ziq30&layout=compact&theme=radical)
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 💻 Projects
 
-###
+Here are a few of my favorites:
+
+- **React Native App:** Mobile app with Firebase integration, offline support, and push notifications.
+- **Portfolio Website:** A responsive, visually stunning personal website built with React and TailwindCSS.
+- **Node.js API:** RESTful API with authentication, CRUD operations, and MongoDB integration.
+
+*(Check out my [GitHub repositories](https://github.com/ziq30) for more!)*
+
+---
+
+## 🌱 Currently Learning
+
+- **C Language:** Building a strong foundation in low-level programming and algorithms.
+- **Advanced Node.js:** Exploring microservices and scalable backend systems.
+- **React Native Animations:** Making apps more interactive and engaging.
+
+---
+
+## 📫 Connect with Me
+
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igwegiovanni0@gmail.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
+---
+
+✨ Fun fact: I love combining **creativity with code** to build apps that make life easier and prettier.
+
