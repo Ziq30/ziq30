@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ziq
 
-![Profile Banner](https://images.unsplash.com/photo-1603780370286-3f6a5a041bfc?auto=format&fit=crop&w=1400&q=80)
+
 
 I'm a passionate **Full Stack Developer** who loves building beautiful, functional, and interactive apps. I specialize in **React Native, Node.js, React, and modern web technologies**, and I'm currently expanding my horizons into **C programming**.
 
@@ -28,7 +28,7 @@ I'm a passionate **Full Stack Developer** who loves building beautiful, function
 
 ![Ziq's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziq30&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?ziq30=ziq30&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ziq30&layout=compact&theme=radical)
 
 ---
 
